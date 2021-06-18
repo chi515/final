@@ -8,7 +8,6 @@
 .container {
     top:161px;
     width:1245px;
-    left:63px;
     height:530px;
     background-color: #8696a7;
     border:1px #f5efe9 solid;
@@ -61,10 +60,9 @@ font-size: 16px;
     border-left:solid black 1px;
 }
 .write{
-    position: relative;
+    position: absolute;
     top:681px;
     width:1245px;
-    left:0px;
     height:530px;
 }
 
